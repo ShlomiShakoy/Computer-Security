@@ -3,8 +3,8 @@
 This project is a web-based management system for the fictional telecom company Communication_LTD, designed to manage customer, product, and market sector data. The project integrates cybersecurity concepts learned in the cyber course, along with programming principles, to develop a secure, relational database-backed system. Two versions of the project demonstrate security practices, showcasing both a vulnerable and a secure version.
 
 ## Overview
-- **Database**: Supports SQL Express or MySQL.
-- **Web Interface**: Developed using Django, Java, or C#.
+- **Database**: Supports MySQL.
+- **Web Interface**: Developed using Python.
 
 ### Key Features
 - **User Management**:
