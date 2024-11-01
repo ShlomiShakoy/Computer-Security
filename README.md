@@ -30,4 +30,5 @@ XSS and SQL Injection Vulnerabilities: Demonstrated in a vulnerable version with
 Two versions are available:
 
 Vulnerable Version: For learning about security weaknesses.
+
 Secure Version: With defenses against XSS and SQL injection.
